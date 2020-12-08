@@ -120,9 +120,10 @@ Graphics
 
 * :free: [ArrayPainter](http://arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
 * :moneybag: [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
+* :tada: [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness.
 * :tada: [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor.
 * :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
-* :free: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
+* :tada: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
 
 #### Animation
 
@@ -152,10 +153,10 @@ Graphics
 * :moneybag: [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free
 * :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 * :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
+* :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
 * :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
 * :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 * [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-* [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
 * [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (Liberated Pixel Cup) graphics
 * :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 * :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
@@ -163,7 +164,7 @@ Graphics
 #### Modeling
 
 * :tada: [Blender](http://www.blender.org/)
-* :free: [MakeHuman](http://www.makehuman.org/)
+* :free: [MakeHuman](http://www.makehumancommunity.org/)
 * :free: [sculptris](http://pixologic.com/sculptris/)
 * :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
 * :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
@@ -199,13 +200,16 @@ Code
 * :tada: [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D using `gfx-rs`.
 * :tada: [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
 * :tada: [AndEngine](http://www.andengine.org) - 2D Android Game Engine
+* :tada: [Astera](https://github.com/tek256/astera) - 2D C99 Cross Platform Game Library / Framework
 * :tada: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
+* :tada: [Babylon.js](https://www.babylonjs.com/) - Javascript 3D Library.
 * :tada: [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
+* :tada: [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
 * :tada: [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * :tada: [bitsy](https://ledoux.itch.io/bitsy) - A little editor for little games or worlds. The goal is to make it easy to make games where you can walk around and talk to people and be somewhere.
 * :tada: [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
 * :money_with_wings: [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers.
-* [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
+* :tada: [Blitz3D](https://github.com/blitz-research/blitz3d) 3D basic-like programming language for fast 3D desktop games.
 * :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 * :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * :tada: [Cerberus X](https://www.cerberus-x.com/wordpress/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
@@ -246,7 +250,8 @@ Code
 * :tada: [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
 * :tada: [Glide Engine](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
 * :tada: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
-* [Grid](http://www.planimeter.org/grid-sdk/) - Lua Game Engine.
+* :tada: [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
+* :tada: [Grid](http://www.planimeter.org/grid-sdk/) - A multiplayer-first game engine for Lua.
 * [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
 * :tada: [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 * :tada: [Heaps](https://heaps.io/) - Cross platform graphics for high performance games.
@@ -283,6 +288,7 @@ Code
 * :free: [Monkey2](http://monkeycoder.co.nz/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 * :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 * :tada: [Nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+* :tada: [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
 * :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 * :tada: [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
 * :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
@@ -330,7 +336,8 @@ Code
 * :tada: [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
 * :tada: [Vassal](http://www.vassalengine.org/) - Vassal is a game engine for building and playing online adaptations of board games and card games. Play live on the Internet or by email. Vassal runs on all platforms, and is free, open-source software.
 * :tada: [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
-* :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#
+* :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
+* :tada: [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) - open source editor for RPG Maker style gamesl
 * :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
 * :tada: [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 * :tada: [Xenko](http://xenko.com/) - Open Source C# Game Engine.
@@ -424,6 +431,7 @@ Must see
 - :free: [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th)
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
+* [Designing Games: A Guide to Engineering Experiences](https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937)
 * [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
 * [Flow](http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202/)
 * [Game Coding Complete](http://www.amazon.com/Game-Coding-Complete-Fourth-McShaffry/dp/1133776574/)
@@ -475,7 +483,7 @@ Must see
 ### Project Management
 
 * :moneybag: [Casual](https://casual.pm/) - Visual Project Management
-* :moneybag: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games
+* :money_with_wings: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games
 * :money_with_wings: [HacknPlan](http://hacknplan.com/) - Project management for game developers
 * :money_with_wings: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers
 * :money_with_wings: [Trello](https://trello.com/) - Organize and prioritize projects
@@ -494,7 +502,7 @@ Must see
 * :tada: [Quake](https://github.com/id-Software/Quake)
 * :tada: [SimCity](https://github.com/simhacker/micropolis)
 * :tada: [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
-* :tada: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
+* :free: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
 
 Ads
 ---
